@@ -1,4 +1,4 @@
-# Logistic-regression
+# Predicting employee promotions using logistic regression and class balancing (ADASYN, Tomek Links, etc.)
 ## Задание
 Клиент - крупная многонациональная компания, имеющая в организации 9 широких вертикалей. Одна из проблем, с которой 
 сталкивается ваш клиент, заключается в том, чтобы правильно определить людей для продвижения по службе  и вовремя их подготовить.
